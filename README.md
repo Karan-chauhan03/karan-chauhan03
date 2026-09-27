@@ -145,15 +145,37 @@ A support system project focused on assistive care for the elderly.
 
 <br/>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Karan-chauhan03/Karan-chauhan03/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Karan-chauhan03&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff00c8&icon_color=00e5ff&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karan-chauhan03&theme=radical&hide_border=true&background=0d0221&ring=9d00ff&fire=ff00c8&currStreakLabel=00e5ff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Karan-chauhan03&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d0221&amp;title_color=ff00c8&amp;icon_color=00e5ff&amp;text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karan-chauhan03&amp;theme=radical&amp;hide_border=true&amp;background=0d0221&amp;ring=9d00ff&amp;fire=ff00c8&amp;currStreakLabel=00e5ff" width="48%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-chauhan03&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff00c8&text_color=c9d1d9" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-chauhan03&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d0221&amp;title_color=ff00c8&amp;text_color=c9d1d9" width="50%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff00c8?style=flat-square&logo=linkedin&logoColor=0d0221)](https://www.linkedin.com/in/karan-chauhan-b62005377)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0221?style=flat-square&logo=github&logoColor=00e5ff)](https://github.com/Karan-chauhan03)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0d0221?style=flat-square&logo=huggingface&logoColor=ffd21e)](https://huggingface.co/karan-chauhan03)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0221,50:9d00ff,100:0d0221&amp;height=100&amp;section=footer" width="100%"/>
+
 </div>
 
 <br/>
