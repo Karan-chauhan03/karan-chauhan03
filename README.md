@@ -1,193 +1,226 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0221,25:ff00c8,50:9d00ff,75:00e5ff,100:0d0221&amp;height=220&amp;section=header&amp;text=Hey,%20I'm%20Karan%20%F0%9F%91%8B&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=32&amp;desc=Backend%20%26%20Generative%20AI%20Engineer%20%7C%20Building%20Agentic%20Systems&amp;descAlignY=52&amp;descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Karan%20Chauhan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Generative%20AI%20%7C%20Agentic%20Systems&descAlignY=55&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=39FF14&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Golang+%2B+gRPC+%2B+REST+APIs;Agentic+AI+%26+LLM+Orchestration;Full-Stack+Developer+%7C+Payments;Data+%26+Analytics+with+Power+BI"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/karan-chauhan-b62005377"><img src="https://img.shields.io/badge/LinkedIn-ff00c8?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0d0221"/></a>
-<a href="https://github.com/Karan-chauhan03"><img src="https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&amp;logo=github&amp;logoColor=00e5ff"/></a>
-<a href="https://huggingface.co/karan-chauhan03"><img src="https://img.shields.io/badge/Hugging%20Face-0d0221?style=for-the-badge&amp;logo=huggingface&amp;logoColor=ffd21e"/></a>
-<a href="mailto:professionalkaran300@gmail.com"><img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&amp;logo=gmail&amp;logoColor=39FF14"/></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Karan-chauhan03&color=9d00ff&style=flat-square&label=Profile+Views)
+<a href="https://www.linkedin.com/in/karan-chauhan-b62005377">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Golang+%7C+gRPC+%7C+REST+APIs;Agentic+AI+%2F+GenAI+Pipelines;Prompt+Engineering+with+Claude;BCA+Student+%40+CITS%2C+Ghaziabad" alt="Typing SVG" />
+</a>
 
 </div>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/karan-chauhan-b62005377"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Karan-chauhan03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://huggingface.co/karan-chauhan03"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+  <a href="mailto:professionalkaran300@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-## 🧠 About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Mohan%20Nagar,%20Ghaziabad-24243e?style=flat-square&labelColor=0f0c29" />
+  <img src="https://komarev.com/ghpvc/?username=Karan-chauhan03&label=Profile%20Views&color=302b63&style=flat-square" />
+</p>
 
-```yaml
-name: "Karan Chauhan"
-education: "BCA — Institute of Technology and Science, Mohan Nagar, Ghaziabad"
-role: "Generative AI Engineer @ Inovatech"
-focus: ["Agentic AI Pipelines", "Backend Systems", "Full-Stack Development"]
-currently_building: "Autonomous multimedia + payment-integrated platforms"
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=3&width=1000" width="100%"/>
+</p>
 
-- 🔭 Currently interning as a **Generative AI Engineer at [Inovatech](https://inovahub.tech/)** (startup), building agentic AI pipelines that automate multi-step multimedia creation end-to-end
-- 🌐 Shipped a **live full-stack platform** with role-based dashboards & payment integration
-- 🏥 Developed an **Elderly Care Assistance** system for accessibility-focused support
-- ⚙️ Comfortable across the stack — from **gRPC microservices** to **LLM orchestration**
-- ⚽ Off-screen, you'll find me **playing football**, **editing**, or **writing**
+### 👋 About Me
+
+- 🎓 Pursuing **BCA** at **College Institute of Technology and Science (CITS)**, Mohan Nagar, Ghaziabad
+- 💼 Currently building **Agentic AI / GenAI pipelines** at **Inovatech**
+- 🛠️ Backend-leaning dev: Go, gRPC, REST APIs, PostgreSQL, Redis, Docker
+- 🤖 Also deep into ML/AI tooling: PyTorch, Pandas, Power BI, prompt engineering with Claude
 - 📫 Reach me at **professionalkaran300@gmail.com**
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=3&width=1000" width="100%"/>
+</p>
 
-## 💼 Experience
+### 🚀 Work Experience
 
-### Generative AI Engineer Intern — [**Inovatech**](https://inovahub.tech/) *(Startup)* · Currently Interning
-
-<table>
-<tr><td>
-
-Designed and engineered **autonomous Agentic AI pipelines** that automate multi-step multimedia creation without manual intervention — turning single-tool prompting into scalable, production-grade video pipelines for app marketing.
-
-**Key contributions:**
-- 🧩 Orchestrated core LLMs (**Gemini Nano, Banana/Dialog**) for reasoning, prompt parsing, scriptwriting & social ad hooks
-- 🎨 Integrated **Leonardo.Ai** to auto-render consistent UI mockups, brand assets & backgrounds
-- 🎙️ Linked **ElevenLabs** for dynamic, high-energy, human-like voiceovers matched to ad scripts
-- 🎬 Leveraged **Gemini Veo 3** to generate cinematic video clips & motion graphics
-- 🤖 Built multi-agent workflows with **LangChain / CrewAI** to sync timing across video, audio & UI assets
-
-</td></tr>
-</table>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td>
 
-### 🌐 Genius United
-**Live full-stack platform** with role-based access, admin dashboard & integrated payments, deployed live on Render.
+#### 🧠 Generative AI Engineer — **Inovatech**
+<a href="https://inovahub.tech/"><img src="https://img.shields.io/badge/inovahub.tech-8b5cf6?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Internship-Agentic%20AI%20%2F%20GenAI-24243e?style=flat-square" />
 
-🔗 [geniusunited.fun](https://geniusunited.fun)
+<br>
 
-`Full-Stack` `Role-Based Access` `Payment Integration` `Render`
-
-</td>
-<td width="50%">
-
-### 🏥 Elderly Care Assistance
-A support system project focused on assistive care for the elderly.
-
-🔗 [View Repository](https://github.com/Karan-chauhan03/elderly-care-assistence)
-
-`Healthcare Tech` `Assistive Systems`
+| Focus Area | What I Built |
+|---|---|
+| 🧩 **Pipeline Architecture** | Designed autonomous **Agentic AI pipelines** that automate multi-step multimedia creation end-to-end, with zero manual intervention |
+| 🗣️ **LLM Orchestration** | Orchestrated **Gemini Nano** & Banana/Dialog for reasoning, prompt parsing, scriptwriting, and social ad hooks |
+| 🎨 **Visual Generation** | Integrated **Leonardo.Ai** to auto-render consistent UI mockups, brand assets, and background visuals |
+| 🎙️ **Voice Synthesis** | Linked **ElevenLabs** to generate high-energy, human-like voiceovers tailored to ad scripts |
+| 🎬 **Video Generation** | Leveraged **Gemini Veo 3** for high-fidelity, cinematic video clips and motion graphics |
+| 🤝 **Multi-Agent Systems** | Built agent workflows with **LangChain / CrewAI** to sync timing across video, audio, and UI assets |
+| 📈 **Impact** | Turned manual, single-tool prompting into a **scalable, production-grade** video pipeline for app marketing |
 
 </td>
 </tr>
 </table>
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=3&width=1000" width="100%"/>
+</p>
 
-## 🛠️ Tech Stack
+### 🛠️ Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
 
-**Languages**
+**🌐 GeniusUnited**
+<br>
+Live full-stack website
+<br><br>
+<img src="https://img.shields.io/badge/status-live-brightgreen?style=flat-square" />
+<br>
+<a href="https://geniusunited.fun"><img src="https://img.shields.io/badge/Visit%20Site-8b5cf6?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 
-![Python](https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=3776AB)
-![Go](https://img.shields.io/badge/Golang-0d0221?style=for-the-badge&logo=go&logoColor=00e5ff)
-![C](https://img.shields.io/badge/C-0d0221?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-0d0221?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/HTML5-0d0221?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d0221?style=for-the-badge&logo=css3&logoColor=1572B6)
+</td>
+<td width="33%" valign="top" align="center">
 
-**Backend & APIs**
+**📊 Role Analysis Dashboard**
+<br>
+Dashboard with integrated payment gateway
+<br><br>
+<img src="https://img.shields.io/badge/status-live%20on%20Render-brightgreen?style=flat-square&logo=render&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Payments-Integrated-blue?style=flat-square" />
 
-![Gin](https://img.shields.io/badge/Gin-0d0221?style=for-the-badge&logo=gin&logoColor=00e5ff)
-![gRPC](https://img.shields.io/badge/gRPC-0d0221?style=for-the-badge&logo=grpc&logoColor=4285F4)
-![REST API](https://img.shields.io/badge/REST%20API-0d0221?style=for-the-badge&logo=fastapi&logoColor=39FF14)
-![Render](https://img.shields.io/badge/Render-0d0221?style=for-the-badge&logo=render&logoColor=46E3B7)
+</td>
+<td width="33%" valign="top" align="center">
 
-**AI / GenAI Tooling**
+**🏥 Elderly Care Assistance**
+<br>
+Medical assistance project for elderly care
+<br><br>
+<img src="https://img.shields.io/badge/type-medical%20project-orange?style=flat-square" />
+<br>
+<a href="https://github.com/Karan-chauhan03/elderly-care-assistence"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
-![Claude](https://img.shields.io/badge/Claude-0d0221?style=for-the-badge&logo=anthropic&logoColor=D97757)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0d0221?style=for-the-badge&logo=huggingface&logoColor=ffd21e)
-![LangChain](https://img.shields.io/badge/LangChain-0d0221?style=for-the-badge&logo=langchain&logoColor=39FF14)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0d0221?style=for-the-badge&logo=openai&logoColor=ff00c8)
-![Kimi CLI](https://img.shields.io/badge/Kimi%20CLI-0d0221?style=for-the-badge&logo=gnometerminal&logoColor=00e5ff)
-![Antigravity](https://img.shields.io/badge/Antigravity-0d0221?style=for-the-badge&logo=google&logoColor=9d00ff)
+</td>
+</tr>
+</table>
 
-**DevOps**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=3&width=1000" width="100%"/>
+</p>
 
-![Docker](https://img.shields.io/badge/Docker-0d0221?style=for-the-badge&logo=docker&logoColor=2496ED)
+### 📜 Certifications
 
-**Data Analysis**
+<table width="100%">
+<tr>
+<td width="33%" align="center">
 
-![Power BI](https://img.shields.io/badge/Power%20BI-0d0221?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![MySQL](https://img.shields.io/badge/MySQL-0d0221?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-0d0221?style=for-the-badge&logo=databricks&logoColor=FF3621)
+<img src="https://img.shields.io/badge/🏅-Certificate%201-0f0c29?style=for-the-badge" /><br><br>
+<a href="https://drive.google.com/file/d/1BRzcex3POZQETlCjPilw5NGyfmqEe35W/view?usp=drivesdk"><img src="https://img.shields.io/badge/View-4285F4?style=flat-square&logo=googledrive&logoColor=white" /></a>
 
-</div>
+</td>
+<td width="33%" align="center">
 
-<br/>
+<img src="https://img.shields.io/badge/🏅-Certificate%202-0f0c29?style=for-the-badge" /><br><br>
+<a href="https://drive.google.com/file/d/1Sk6HnB_KZ6j5J4toodZNsbXiU0rbqd4n/view?usp=drivesdk"><img src="https://img.shields.io/badge/View-4285F4?style=flat-square&logo=googledrive&logoColor=white" /></a>
 
-## 🏆 Certifications
+</td>
+<td width="33%" align="center">
 
-<div align="center">
+<img src="https://img.shields.io/badge/🏅-Certificate%203-0f0c29?style=for-the-badge" /><br><br>
+<a href="https://drive.google.com/file/d/1CfR5Srp36ByFiwwDYi9tvHeT90o4Bpv-/view?usp=drivesdk"><img src="https://img.shields.io/badge/View-4285F4?style=flat-square&logo=googledrive&logoColor=white" /></a>
 
-[![Certificate 1](https://img.shields.io/badge/Certificate%201-View-9d00ff?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1BRzcex3POZQETlCjPilw5NGyfmqEe35W/view?usp=drivesdk)
-[![Certificate 2](https://img.shields.io/badge/Certificate%202-View-ff00c8?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Sk6HnB_KZ6j5J4toodZNsbXiU0rbqd4n/view?usp=drivesdk)
-[![Certificate 3](https://img.shields.io/badge/Certificate%203-View-00e5ff?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1CfR5Srp36ByFiwwDYi9tvHeT90o4Bpv-/view?usp=drivesdk)
+</td>
+</tr>
+</table>
 
-</div>
+> 💡 Rename the badge text (e.g. "AWS Cloud Practitioner") once you tell me what each certificate is for — makes them far more useful than generic numbers.
+>
+> 🔒 **If a certificate link shows "request access":** the Drive file is still set to private. Open it in Google Drive → Share → change "General access" to **Anyone with the link (Viewer)** → the same link will start working.
 
-> _Send me the actual names/issuers for each and I'll relabel these from "Certificate 1/2/3" to their real titles._
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=3&width=1000" width="100%"/>
+</p>
 
-<br/>
+### 🧰 Tech Stack
 
-## 🐍 Contribution Snake
+**Languages & Backend**
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Karan-chauhan03/Karan-chauhan03/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
+<p>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-25D366?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-<br/>
+**Data, AI & ML**
 
-## 📊 GitHub Stats
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Claude-8b5cf6?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-1e1e2e?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Kimi%20CLI-000000?style=for-the-badge" />
+</p>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Karan-chauhan03&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d0221&amp;title_color=ff00c8&amp;icon_color=00e5ff&amp;text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karan-chauhan03&amp;theme=radical&amp;hide_border=true&amp;background=0d0221&amp;ring=9d00ff&amp;fire=ff00c8&amp;currStreakLabel=00e5ff" width="48%"/>
-</div>
+**Databases & Infra**
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-chauhan03&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d0221&amp;title_color=ff00c8&amp;text_color=c9d1d9" width="50%"/>
-</div>
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=3&width=1000" width="100%"/>
+</p>
 
-<div align="center">
+### 📊 GitHub Stats
 
-### 📫 Let's Connect
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karan-chauhan03&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karan-chauhan03&theme=dracula&hide_border=true&background=0d1117" width="48%" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff00c8?style=flat-square&logo=linkedin&logoColor=0d0221)](https://www.linkedin.com/in/karan-chauhan-b62005377)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0221?style=flat-square&logo=github&logoColor=00e5ff)](https://github.com/Karan-chauhan03)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0d0221?style=flat-square&logo=huggingface&logoColor=ffd21e)](https://huggingface.co/karan-chauhan03)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-chauhan03&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karan-chauhan03&theme=react-dark&bg_color=0d1117&hide_border=true" width="48%" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0221,50:9d00ff,100:0d0221&amp;height=100&amp;section=footer" width="100%"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Karan-chauhan03&theme=dracula&no-frame=true&row=1&column=6" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=3&width=1000" width="100%"/>
+</p>
 
-<br/>
+### 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karan-chauhan03/Karan-chauhan03/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karan-chauhan03/Karan-chauhan03/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Karan-chauhan03/Karan-chauhan03/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
 
-### 📫 Let's Connect
+> ⚠️ The snake image only appears **after** you add the workflow file (`snake.yml`, provided separately) to this repo and it runs once — see setup notes below.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff00c8?style=flat-square&logo=linkedin&logoColor=0d0221)](https://www.linkedin.com/in/karan-chauhan-b62005377)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0221?style=flat-square&logo=github&logoColor=00e5ff)](https://github.com/Karan-chauhan03)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0d0221?style=flat-square&logo=huggingface&logoColor=ffd21e)](https://huggingface.co/karan-chauhan03)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=3&width=1000" width="100%"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0221,50:9d00ff,100:0d0221&amp;height=100&amp;section=footer" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+</p>
 
-</div>
+<p align="center"><i>Thanks for stopping by — let's build something with AI. 🚀</i></p>
